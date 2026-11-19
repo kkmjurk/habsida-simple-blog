@@ -1,0 +1,19 @@
+.settings-page__success {
+    color: #3c763d;
+    font-size: 14px;
+}
+
+.settings-page__logout {
+    margin-top: 25px;
+    padding-top: 20px;
+    border-top: 1px solid #eee;
+}
+
+.settings-page__logout button {
+    padding: 8px 14px;
+    border: 1px solid #d9534f;
+    border-radius: 4px;
+    background: transparent;
+    color: #d9534f;
+    cursor: pointer;
+}
